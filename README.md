@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrigesh
 - 👀 I’m interested in DevOps and cloud technology.
-- 🌱 I’m a python developer and full stack web developer
+- I love coding in python.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ... Mail me at mrigeshpatni9@gmail.com
 
